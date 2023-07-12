@@ -9,7 +9,7 @@
 | 20/0030469  |  Felipe Candido de Moura |
 
 ## Sobre 
-Resoluções de questões de juizes online (leetcode, SPOJ, OJ, CodeForces), foram quatro questões resolvidas no total.
+Resoluções de questões de juizes online (SPOJ, CodeForces), foram quatro questões resolvidas no total.
 
 ## Screenshots
 Em cada pasta de questões possui seu enunciado, código e print da submissão no juiz online.
